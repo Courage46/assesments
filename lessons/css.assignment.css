@@ -74,3 +74,25 @@ span.two{
     padding: 10px;
 
 }
+main{
+    border: 1px pink;
+    height: 440px;
+    background-color: hsl(0, 0%, 96%);
+}
+
+
+.tess{
+text-align:center ;
+text-decoration: underline red;
+color: black;
+
+}
+.mm{
+    float: left;
+    height: 90px;
+    width:100px;
+}
+.columns{
+    column-count: 6;
+    padding: 40px;
+}
